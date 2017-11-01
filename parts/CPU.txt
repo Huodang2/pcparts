@@ -1,0 +1,186 @@
+begin
+Intel Core i9-7980XE
+Intel Core i9-7940X
+Intel Core i9-7920X
+AMD Ryzen Threadripper 1950X
+Intel Core i9-7900X
+AMD Ryzen Threadripper 1920X
+Intel Core i7-7820X
+Intel Core i7-6950X
+Intel Core i7-8700K 
+Intel Core i7-8700 
+AMD Ryzen Threadripper 1900X
+AMD Ryzen 7 1800X
+AMD Ryzen 7 1700X
+Intel Core i7-6900K
+AMD Ryzen 5 1600X
+AMD Ryzen 7 1700
+Intel Core i7-7800X
+Intel Core i7-6850K
+AMD Ryzen 5 1600
+Intel Core i7-7740X
+Intel Core i7-5960X
+Intel Core i7-6800K
+Intel Core i7-7700K
+Intel Core i7-5930K
+Intel Core i7-4960X
+Intel Core i5-8600K 
+Intel Core i7-3970X Extreme Edition 
+Intel Core i7-4930K
+Intel Core i7-5820K 
+Intel Core i7-7700
+Intel Core i7-3960X Extreme Edition 
+Intel Core i7-6700K
+Intel Core i7-3930K 
+Intel Core i5-8400 
+AMD Ryzen 5 1500X
+Intel Core i7-5775C
+AMD Ryzen 5 1400
+Intel Core i7-4790K
+Intel Core i7-6700 
+Intel Core i7-7820HK
+Intel Core i7-7700HQ
+Intel Core i7-4790 
+Intel Core i7-4771
+Intel Core i7-4770K
+Intel Core i7-4820K
+Intel Core i7-4770
+Intel Core i7-3770K 
+AMD FX-9590
+Intel Core i3-8350K 
+Intel Core i5-7600K
+Intel Core i7-3770 
+Intel Core i5-8250U 
+Intel Core i7-990X 
+AMD FX-9370
+Intel Core i7-6820HK
+Intel Core i7-980X 
+Intel Core i5-7600
+Intel Core i3-8100 
+Intel Core i7-5700HQ
+Intel Core i5-7500
+AMD Ryzen 3 1300X
+Intel Core i7-6700HQ
+AMD FX-8370
+Intel Core i7-3770S 
+AMD FX-8350
+Intel Core i5-6600K
+Intel Core i7-8550U 
+Intel Core i7-4810MQ 
+Intel Core i5-7400
+Intel Core i3-7350K
+AMD FX-4300
+Intel Core i5-6600 
+Intel Core i7-4800MQ
+AMD Ryzen 3 1200
+Intel Core i5-6500 
+Intel Core i7-4720HQ
+Intel Core i5-4690 
+Intel Core i5-4690K
+AMD Phenom II X6 1100T
+Intel Core i3-7100
+AMD FX-8320
+AMD FX-8320E
+Intel Core i5-4670
+Intel Core i5-4670K
+Intel Core i7-4710MQ
+Intel Core i7-4710HQ
+AMD Phenom II X6 1090T
+Intel Core i5-4590 
+Intel Core i7-3820 
+Intel Core i3-6100 
+Intel Core i7-4700HQ
+Intel Core i7-4700MQ
+Intel Core i5-3570K 
+Intel Core i5-3570
+Intel Core i5-7300HQ
+AMD FX-8150
+AMD FX-8300
+Intel Core i5-4460 
+Intel Core i5-3550 
+Intel Core i5-4440
+Intel Core i5-6402P
+Intel Core i5-2550K 
+Intel Core i5-3470 
+Intel Core i5-4430
+Intel Core i7-3630QM 
+AMD FX-6350
+Intel Core i5-3350P
+Intel Core i5-3450 
+Intel Core i5-2500 
+Intel Core i5-2500K 
+Intel Core i5-6400 
+AMD Phenom II X6 1055T
+Intel Core i5-3330
+AMD FX-8120
+Intel Core i7-3610QM 
+Intel Core i3-4170 
+Intel Core i5-2400 
+Intel Core i7-960 
+Intel Core i5-6500T 
+Intel Core i3-4160
+Intel Core i5-6300HQ 
+Intel Core i7-2700K 
+Intel Core i3-4150 
+AMD FX-6300
+Intel Core i7-950 
+Intel Core 2 Quad  Q9650
+AMD Phenom II X4 965
+Intel Core i3-4130 
+Intel Core i7-2600 
+Intel Core i7-2600K 
+Intel Core i5-2300 
+Intel Core i5-760 
+Intel Core i7-7500U 
+Intel Core 2 Quad  Q9550
+Intel Core i7-870 
+AMD Phenom II X4 B55
+AMD Phenom II X4 955
+Intel Core i5-7200U 
+Intel Core i5-4570
+Intel Core i5  I5-750
+AMD FX-6100
+Intel Core 2 Quad  Q9400
+Intel Core i7-930 
+Intel Core i7-860 
+AMD Phenom II X4  945
+AMD A10-7870K
+AMD Athlon II X4 640
+AMD A8-6600K
+Intel Core i7-920 
+Intel Core i5-4570S
+AMD Athlon X4 860K
+AMD A10-5800K
+AMD A10-7850K
+Intel Core i5-6200U
+Intel Core i5-4200H
+Intel Pentium G4400
+Intel Core 2 Quad  Q6600
+AMD A10-7700K
+Intel Pentium  G3460
+AMD Athlon II X3 450
+Intel Core i5-3230M 
+AMD FX-4100
+Intel Core i5-4210M
+Intel Core i5-5200U 
+Intel Pentium  G3260
+Intel Core i5-3210M 
+Intel Core i7-6500U 
+Intel Pentium G3258
+Intel Core i7-5500U 
+AMD A8-7600
+Intel Celeron G3900
+Intel Pentium G3220
+Intel Celeron  G1840
+Intel Core i3-2120 
+Intel Core i3-3240
+Intel Core i3-3220
+Intel Celeron  G1820
+Intel Core i3-2100 
+Intel Core 2 Duo  E8400
+Intel Core i5-2320 
+Intel Core i5-2310 
+Intel Core i5-4210U 
+Intel Core i7-2670QM 
+Intel Core i5  i5-650
+Intel Core i7-2630QM 
